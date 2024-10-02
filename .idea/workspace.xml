@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf7f1ad-82e1-4b00-a98f-3c30b170c7e2" name="Changes" comment="Added tonality_text.py">
+    <list default="true" id="daf7f1ad-82e1-4b00-a98f-3c30b170c7e2" name="Changes" comment="Updated workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_of_aggressive_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/array_of_aggressive_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tonality_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tonality_text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,8 @@
       <workItem from="1727665419973" duration="1456000" />
       <workItem from="1727708809058" duration="27000" />
       <workItem from="1727799703881" duration="12000" />
+      <workItem from="1727799773720" duration="22000" />
+      <workItem from="1727851264433" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing the project">
       <option name="closed" value="true" />
@@ -97,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727666869884</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1727799789391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727799789391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,9 +122,10 @@
     <MESSAGE value="Initializing the project" />
     <MESSAGE value="Added array_of_aggressive_words.py" />
     <MESSAGE value="Added tonality_text.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tonality_text.py" />
+    <MESSAGE value="Updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Text_sentiment_detector$tonality_text.coverage" NAME="tonality_text Coverage Results" MODIFIED="1727666379086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_sentiment_detector$tonality_text.coverage" NAME="tonality_text Coverage Results" MODIFIED="1727851719027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
